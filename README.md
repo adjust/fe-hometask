@@ -20,17 +20,14 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 
 ## Instructions
 
-1. You **MUST [clone this repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)** to a location of your choosing where you can work on your solution
-2. Write your solutions
-3. Push your solution to a **private repo** in your **personal Github account**
-4. When you are ready for us to take a look, please add [adjust-frontend-hiring][adjust-frontend-hiring] (GitHub user) as collaborator
+1. Push your solution to a **private repo** in your **personal Github account**
+2. When you are ready for us to take a look, please add [adjust-frontend-hiring][adjust-frontend-hiring] (GitHub user) as collaborator
 
-## Important rules
+## General notes
 
-Your challenge submission will be disqualified and automatically rejected if any of the following happens:
-
-- Your **repo was not properly cloned** as specified on step #1 of Instructions. [See how to clone a repository here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). **Note:** If you cloned the repo properly, previous commits from this (original) repo, must be showing on your git history.
-- Your **repo visibility is not set to private** as specified on step #3 of Instructions. [See how to make a repository private here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
+- The final solution must be a working React application
+- You can use any library you see fit
+- Bringing in best practices such as tests, types, linting will be appreciated
 
 ---
 
@@ -42,7 +39,6 @@ Implement `prepareData` higher order function, which takes an object of filter p
 
 **Observations:**
 
-- You can use any library you see fit
 - Missions should appear in inverse chronological order (sort), with the exception of those that carried more payloads should appear first.
 - Payloads are carried in the second stage of a rocket and they can belong to multiple customers.
 - It doesn't matter to which `customerName` 'program' each payload belongs to as long as `customerName` is the customer.
