@@ -12,7 +12,7 @@
 
 Here you will be given the opportunity to play with JavaScript and Rockets in the same project. For this, we recommend you to block 2-3 hours of your time to complete it.
 
-**Please make sure you have read this page entirely, before starting the challenge**. If you have any doubts, please reach out to us by [opening an issue](https://github.com/adjust/react-and-rockets#how-to-request-help) as described at the bottom of this page.
+**Please make sure you have read this page entirely, before starting the challenge**. If you have any doubts, please reach out to us by [opening an issue](#how-to-request-help) as described at the bottom of this page.
 
 **Importantly**, we would like to give all candidates taking this test the same opportunity to solve the exercise in their own way. Because of this, **please do not fork or share this repo (nor your solution) with anybody 🙏🏻**
 
@@ -142,7 +142,7 @@ Describe your question(s) and [mention](https://docs.github.com/en/github/writin
 [spacex-api]: https://api.spacexdata.com/v3/launches/past
 [spacex-api-docs]: https://docs.spacexdata.com/?version=latest#fce450d6-e064-499a-b88d-34cc22991bcc
 [github-collaborators]: https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository
-[task-1]: https://github.com/adjust/react-and-rockets#task-1---javascript
+[task-1]: #task-1---javascript
 [template-literals]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 [custom-hook]: https://reactjs.org/docs/hooks-custom.html
 [data-fixtures]: ./__fixtures__/data.json
