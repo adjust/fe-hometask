@@ -101,7 +101,7 @@ Implement `RocketsList` component with the following specifications:
 **Observations:**
 
 - The list of missions should be re-processed if `filterParams` prop changes, **BUT no new API calls should happen** to [SpaceX API][spacex-api]
-- You are not allowed to use any of the filter parameters provided by the [SpaceX API docs][spacex-api-docs], just fetch all available data and process it with `prepareData` function
+- As a part of this challenge, you are not allowed to use any of the filter parameters provided by the [SpaceX API docs][spacex-api-docs], just fetch all available data and process it with `prepareData` function
 
 **Example:**
 
