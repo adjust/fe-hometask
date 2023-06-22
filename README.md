@@ -28,6 +28,10 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 - The final solution must be a working React application
 - You can use any library if you see a good fit for it
 - Bringing in best practices such as tests, types, linting will be appreciated
+- Aspects to be assessed:
+  - code cleanliness
+  - quality assurance
+  - consistency in code style
 
 ---
 
