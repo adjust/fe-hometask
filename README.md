@@ -34,6 +34,8 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
   - Code Style – meaningful naming, reasonable conciseness and consistency with applied code style conventions (i.e. sticking to either single or double quotes when declaring strings, but not mixing);
   - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks;
 
+Good luck and happy coding! 🚀
+
 ---
 
 ## Exercise
