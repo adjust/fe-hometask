@@ -103,7 +103,7 @@ Implement `<RocketsList>` component with the following specifications:
 - The component obtains a list of 'missions' from a [custom hook][custom-hook], which fetches **the whole list of missions** from the [SpaceX API][spacex-api] and processes them with `prepareData` function (from [task #1][task-1]) and `filterParams` prop;
   - The mission data should only be fetched once.
   - As a part of this challenge, you are not allowed to use any of the filter parameters provided by the [SpaceX API docs][spacex-api-docs].
-- For each 'mission' obtained from the custom hook, the component render a string using [template literals][template-literals] with the following format: "#`flight_number` `mission_name` (`payloads_count`)"
+- For each 'mission' obtained from the custom hook, the component renders a string using [template literals][template-literals] with the following format: "#`flight_number` `mission_name` (`payloads_count`)"
 - While 'missions' are being fetched from the API, the component renders `"Loading..."` on the screen;
 - If no 'missions' are obtained from the custom hook, the component renders `"No data"` on the screen.
 
