@@ -25,14 +25,14 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 
 ## General notes
 
-- The final solution must be a working React application;
+- The final solution must be a working React application.
   - It's up to you how to bootstrap a new React application.
-- You can use any third-party library if you see a good fit for it;
-- Bringing in best practices such as tests, type safety, linting is appreciated;
+- You can use any third-party library if you see a good fit for it.
+- Bringing in best practices such as tests, type safety, linting is appreciated.
 - It's not necessary to heavily comment the code, please only leave comments where you think they are necessary to understand the related code.
 - Aspects to be assessed:
-  - Code Style – meaningful naming, reasonable conciseness and consistency with applied code style conventions (i.e. sticking to either single or double quotes when declaring strings, but not mixing);
-  - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks;
+  - Code Style – meaningful naming, reasonable conciseness and consistency with applied code style conventions (i.e. sticking to either single or double quotes when declaring strings, but not mixing).
+  - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks.
 
 Good luck and happy coding! 🚀
 
@@ -99,12 +99,12 @@ The expected result should be:
 
 Implement `<RocketsList>` component with the following specifications:
 
-- The component receives `filerParams` object (with the shape described in [task #1][task-1]) as a prop;
-- The component obtains a list of 'missions' from a [custom hook][custom-hook], which fetches **the whole list of missions** from the [SpaceX API][spacex-api] and processes them with `prepareData` function (from [task #1][task-1]) and `filterParams` prop;
+- The component receives `filerParams` object (with the shape described in [task #1][task-1]) as a prop.
+- The component obtains a list of 'missions' from a [custom hook][custom-hook], which fetches **the whole list of missions** from the [SpaceX API][spacex-api] and processes them with `prepareData` function (from [task #1][task-1]) and `filterParams` prop.
   - The mission data should only be fetched once.
   - As a part of this challenge, you are not allowed to use any of the filter parameters provided by the [SpaceX API docs][spacex-api-docs].
 - For each 'mission' obtained from the custom hook, the component renders a string using [template literals][template-literals] with the following format: "#`flight_number` `mission_name` (`payloads_count`)"
-- While 'missions' are being fetched from the API, the component renders `"Loading..."` on the screen;
+- While 'missions' are being fetched from the API, the component renders `"Loading..."` on the screen.
 - If no 'missions' are obtained from the custom hook, the component renders `"No data"` on the screen.
 
 **Example:**
