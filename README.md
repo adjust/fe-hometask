@@ -28,7 +28,7 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 - The final solution must be a working React application.
   - It's up to you how to bootstrap a new React application.
 - You can use any third-party library if you see a good fit for it.
-- Bringing in best practices such as tests, type safety, linting is appreciated.
+- Bringing in best practices such as tests, type safety, and linting is appreciated.
 - It's not necessary to heavily comment the code, please only leave comments where you think they are necessary to understand the related code.
 - Aspects to be assessed:
   - Code Style – meaningful naming, reasonable conciseness and consistency with applied code style conventions (i.e. sticking to either single or double quotes when declaring strings, but not mixing).
@@ -122,7 +122,7 @@ The expected render should be similar to the following:
 
 <img align="center" src="img/expected_output.png" width="600">
 
-We would be testing your solution with a small set of E2E tests, please make sure your solution conforms to the specifications above.
+We will be testing your solution with a small set of E2E tests, please make sure your solution conforms to the specifications above.
 
 ## How to request help
 
