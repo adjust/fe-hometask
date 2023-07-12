@@ -28,7 +28,7 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 - The final solution must be a working React application.
   - It's up to you how to bootstrap a new React application.
 - You can use any third-party library if you see a good fit for it.
-- It's not necessary to heavily comment the code, please only leave comments where you think they are necessary to understand the related code.
+- It's not necessary to heavily comment the code, please only leave comments where they are necessary for code comprehension. However, we welcome notes and comments that reflect the higher-level decisions made during the challenge.
 - Aspects to be assessed:
   - Code Style – meaningful naming conventions, consistent code formatting, and emphasis on code readability and future extensibility.
   - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks.
@@ -109,13 +109,15 @@ Implement `<RocketsList>` component with the following specifications:
 
 **Example:**
 
-Considering we pass the following `filterParams` as a prop to the `RocketList` component:
+Considering we render `RocketList` like the following:
 
 ```js
-{
-  year: 2018,
-  customerName: "NASA"
-}
+<RocketList
+  filterParams={{
+    year: 2018,
+    customerName: "NASA",
+  }}
+/>
 ```
 
 The expected render should be similar to the following:
