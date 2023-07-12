@@ -28,11 +28,11 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 - The final solution must be a working React application.
   - It's up to you how to bootstrap a new React application.
 - You can use any third-party library if you see a good fit for it.
-- Bringing in best practices such as tests, type safety, and linting is appreciated.
 - It's not necessary to heavily comment the code, please only leave comments where you think they are necessary to understand the related code.
 - Aspects to be assessed:
-  - Code Style – meaningful naming, reasonable conciseness and consistency with applied code style conventions (i.e. sticking to either single or double quotes when declaring strings, but not mixing).
+  - Code Style – meaningful naming conventions, consistent code formatting, and emphasis on code readability and future extensibility.
   - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks.
+  - Introducing best practices such as tests, type safety, and linting is appreciated.
 
 Good luck and happy coding! 🚀
 
