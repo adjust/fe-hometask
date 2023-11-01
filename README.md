@@ -124,7 +124,19 @@ The expected render should be similar to the following:
 
 <img align="center" src="img/expected_output.png" width="600">
 
-We will be testing your solution with a small set of E2E tests, please make sure your solution conforms to the specifications above.
+We will be testing your solution with a small set of E2E tests, please make sure your solution conforms to the specifications above. Our E2E tests rely on the following facts:
+
+* Your React application starts a development server by running `npm run start` command.
+* The devolopment server is hosted on `localhost:3000`.
+* The markup is represented as an unordered list, composed with `<ul>` and `<li>` HTML elements, please refer to an example below:
+
+```html
+<ul>
+  <li>#62 Iridium NEXT Mission 6 (2)</li>
+  <li>#72 CRS-16 (1)</li>
+  ...
+</ul>
+```
 
 ## How to request help
 
