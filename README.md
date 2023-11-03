@@ -52,7 +52,7 @@ Implement `prepareData` higher order function, which takes an object of filter p
 
 **Example:**
 
-Considering we have the list of missions from this [data fixture][data-fixtures], and the following filter params:
+Considering we have a response from the [SpaceX API](spacex-api) and the following filter params:
 
 ```js
 {
@@ -155,5 +155,4 @@ Describe your question(s) and [mention](https://docs.github.com/en/github/writin
 [task-1]: #task-1---javascript
 [template-literals]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 [custom-hook]: https://reactjs.org/docs/hooks-custom.html
-[data-fixtures]: ./__fixtures__/data.json
 [adjust-frontend-hiring]: https://github.com/adjust-frontend-hiring
