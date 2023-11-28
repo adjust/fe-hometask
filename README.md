@@ -46,7 +46,8 @@ Implement `prepareData` higher order function, which takes an object of filter p
 
 **Observations:**
 
-- Missions should appear in inverse chronological order (sorted by the `launch_date_utc` field), with the exception of those that carried more payloads should appear first.
+- Missions should appear in inverse chronological order (sorted by the
+  `launch_date_utc` field), with the exception that those carrying more payloads should appear first.
 - Payloads are carried in the second stage of a rocket and they can belong to multiple customers.
 - It doesn't matter to which `customerName` 'program' each payload belongs to as long as `customerName` is the customer.
 
