@@ -127,7 +127,7 @@ The expected render should be similar to the following:
 We will be testing your solution with a small set of E2E tests, please make sure your solution conforms to the specifications above. Our E2E tests rely on the following facts:
 
 - Your React application starts a development server by running `npm run start` command.
-- The devolopment server is hosted on `localhost:3000`.
+- The development server is hosted on `localhost:3000`.
 - The markup is represented as an unordered list, composed with `<ul>` and `<li>` HTML elements, please refer to an example below:
 
 ```html
