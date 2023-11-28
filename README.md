@@ -46,7 +46,7 @@ Implement `prepareData` higher order function, which takes an object of filter p
 
 **Observations:**
 
-- Missions should appear in inverse chronological order (sort), with the exception of those that carried more payloads should appear first.
+- Missions should appear in inverse chronological order (sorted by the `launch_date_utc` field), with the exception of those that carried more payloads should appear first.
 - Payloads are carried in the second stage of a rocket and they can belong to multiple customers.
 - It doesn't matter to which `customerName` 'program' each payload belongs to as long as `customerName` is the customer.
 
@@ -126,9 +126,9 @@ The expected render should be similar to the following:
 
 We will be testing your solution with a small set of E2E tests, please make sure your solution conforms to the specifications above. Our E2E tests rely on the following facts:
 
-* Your React application starts a development server by running `npm run start` command.
-* The devolopment server is hosted on `localhost:3000`.
-* The markup is represented as an unordered list, composed with `<ul>` and `<li>` HTML elements, please refer to an example below:
+- Your React application starts a development server by running `npm run start` command.
+- The devolopment server is hosted on `localhost:3000`.
+- The markup is represented as an unordered list, composed with `<ul>` and `<li>` HTML elements, please refer to an example below:
 
 ```html
 <ul>
