@@ -53,7 +53,7 @@ Implement `prepareData` higher order function, which takes an object of filter p
 
 **Example:**
 
-Considering we have a response from the [SpaceX API](<a href="https://api.spacexdata.com/v3/launches/past" target="_blank">spacex-api</a>) and the following filter params:
+Considering we have a response from the <a href="https://api.spacexdata.com/v3/launches/past" target="_blank">SpaceX API</a> and the following filter params:
 
 ```js
 {
