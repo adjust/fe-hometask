@@ -31,7 +31,7 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 - It's not necessary to heavily comment the code, please only leave comments where they are necessary for code comprehension. However, we welcome notes and comments that reflect the higher-level decisions made during the challenge.
 - Aspects to be assessed:
   - Code Style – meaningful naming conventions, consistent code formatting, and emphasis on code readability and future extensibility.
-  - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks.
+  - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks. A solution that outputs a different result than the one specified will not be taken into consideration.
   - Introducing best practices such as tests, type safety, and linting is appreciated.
 
 Good luck and happy coding! 🚀
