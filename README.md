@@ -10,7 +10,7 @@
 
 ## Welcome to our little coding exercise! 👋
 
-Here you will be given the opportunity to play with JavaScript and Rockets in the same project. For this, we recommend you to block 2-3 hours of your time to complete it.
+Here you will be given the opportunity to play with TypeScript and Rockets in the same project. For this, we recommend you to block 2-3 hours of your time to complete it.
 
 **Please make sure you have read this page entirely, before starting the challenge**. If you have any doubts, please reach out to us by [opening an issue](#how-to-request-help) as described at the bottom of this page.
 
@@ -32,7 +32,7 @@ Here you will be given the opportunity to play with JavaScript and Rockets in th
 - Aspects to be assessed:
   - Code Style – meaningful naming conventions, consistent code formatting, and emphasis on code readability and future extensibility.
   - Quality Assurance – the solution you upload should work as expected, conforming to the specifications of the tasks. A solution that outputs a different result than the one specified will not be taken into consideration.
-  - Introducing best practices such as tests, type safety, and linting is appreciated.
+  - Introducing best practices such as tests and linting is appreciated.
 
 Good luck and happy coding! 🚀
 
@@ -40,7 +40,7 @@ Good luck and happy coding! 🚀
 
 ## Exercise
 
-### TASK #1 - JavaScript
+### TASK #1 - TypeScript
 
 Implement `prepareData` higher order function, which takes an object of filter params `{year, customerName}`, and returns a function that processes a list of missions, by only showing the ones that were launched in `year` and carried a payload belonging to `customerName`.
 
