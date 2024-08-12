@@ -108,9 +108,9 @@ Implement `<RocketsList>` component with the following specifications:
 - While 'missions' are being fetched from the API, the component renders `"Loading..."` on the screen.
 - If no 'missions' are obtained from the custom hook, the component renders `"No data"` on the screen.
 
-**Example:**
+**Expected outcome:**
 
-Considering we render `RocketList` like the following:
+Please make sure to set the `filterParams` to match the example below:
 
 ```js
 <RocketList
@@ -121,7 +121,7 @@ Considering we render `RocketList` like the following:
 />
 ```
 
-The expected render should be similar to the following:
+The expected render must match the following outcome:
 
 <img align="center" src="img/expected_output.png" width="600">
 
@@ -129,6 +129,7 @@ We will be testing your solution with a small set of E2E tests, please make sure
 
 - Your React application starts a development server by running `npm run start` command.
 - The development server is hosted on `localhost:3000`.
+- `filterParams` are specified as `{ year: 2018, customerName: "NASA" }`, like on example above.
 - The markup is represented as an unordered list, composed with `<ul>` and `<li>` HTML elements, please refer to an example below:
 
 ```html
