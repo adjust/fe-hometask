@@ -14,7 +14,7 @@ Here, you will have the opportunity to work with TypeScript and Rockets in the s
 
 **Please make sure to read this page in its entirety before starting the challenge.** If you have any questions, feel free to [open an issue](#how-to-request-help) as described at the bottom of this page.
 
-**Important:** We want to give all candidates taking this test an equal opportunity to solve the exercise in their own way. Therefore, **please do not fork or share this repo (or your solution) with anyone 🙏🏻**
+**Important:** We want to give all candidates taking this test an equal opportunity to solve the exercise in their own way. Therefore, **please do not fork or share this repo (nor your solution) with anyone 🙏🏻**
 
 <img align="center" src="https://i.imgur.com/ekyJNd9.jpg" width="600">
 
@@ -27,7 +27,7 @@ Here, you will have the opportunity to work with TypeScript and Rockets in the s
 
 - The final solution must be a working React application.
   - It's up to you how to bootstrap a new React application.
-- You can use any third-party library if you find it suitable.
+- You can use any third-party library if you see a good fit for it.
 - It's not necessary to heavily comment the code; please only leave comments where they are essential for code comprehension. However, we welcome notes and comments that reflect the higher-level decisions made during the challenge.
 - Aspects to be assessed:
   - Code Style – meaningful naming conventions, consistent code formatting, and emphasis on code readability and future extensibility.
@@ -142,7 +142,7 @@ We will be testing your solution with a small set of E2E tests. Please make sure
 
 ## How to request help
 
-If you have any questions, you can reach out to us by [creating a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository) in your private repo.
+If you have any questions or doubts, you can reach out to us by [creating a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository) in your private repo.
 
 Describe your question(s) and [mention](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) [adjust-frontend-hiring][adjust-frontend-hiring] in your comments (don't forget to add the user as a collaborator). We will receive a notification and get back to you as soon as possible.
 
