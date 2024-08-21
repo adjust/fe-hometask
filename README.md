@@ -12,7 +12,7 @@
 
 Here, you will have the opportunity to work with TypeScript and Rockets in the same project. We recommend setting aside 2-3 hours to complete it.
 
-**Please make sure to read this page in its entirety before starting the challenge.** If you have any questions, feel free to [open an issue](#how-to-request-help) as described at the bottom of this page.
+**Please make sure to read this page entirely before starting the challenge.** If you have any questions, feel free to [open an issue](#how-to-request-help) as described at the bottom of this page.
 
 **Important:** We want to give all candidates taking this test an equal opportunity to solve the exercise in their own way. Therefore, **please do not fork or share this repo (nor your solution) with anyone 🙏🏻**
 
